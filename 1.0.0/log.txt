@@ -1,0 +1,7 @@
+[2018-10-11 17:28:49.240002]:The menu() function is called;
+[2018-10-11 22:47:31.658290]: Runned English launcher;
+[2018-10-11 22:47:36.584324]: Runned English launcher;
+
+[2018-10-13 01:03:58.661238]: Runned Russian launcher;
+[2018-10-13 01:03:58.661238]: The menu() function is called;
+[2018-10-13 01:03:58.661238]: The exit() function is called;
